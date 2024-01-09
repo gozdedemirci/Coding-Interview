@@ -36,8 +36,8 @@
 |-------------------------------------------------------------|
 | Data Structure | Access   | Search   | Insertion | Deletion |
 |----------------|----------|----------|-----------|----------|
-| Array | O(1) | O(n) | O(n) | O(n) |
-| Linked List | O(n) | O(n) | O(1) | O(1) |
+| Array          | O(1)     | O(n)     | O(n)      | O(n)     |
+| Linked List    | O(n)     | O(n)     | O(1)      | O(1)     |
 | Stack          | O(n)     | O(n)     | O(1)      | O(1)     |
 | Queue          | O(n)     | O(n)     | O(1)      | O(1)     |
 | Tree           | O(log n) | O(log n) | O(log n)  | O(log n) |
