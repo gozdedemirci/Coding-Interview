@@ -31,22 +31,89 @@
 
 **Time Complexity**:
 
-|-------------------------------------------------------------|
-|           Time Complexity with Worst Case Scenario          |
-|-------------------------------------------------------------|
-| Data Structure | Access   | Search   | Insertion | Deletion |
-|----------------|----------|----------|-----------|----------|
-| Array          | O(1)     | O(n)     | O(n)      | O(n)     |
-| Linked List    | O(n)     | O(n)     | O(1)      | O(1)     |
-| Stack          | O(n)     | O(n)     | O(1)      | O(1)     |
-| Queue          | O(n)     | O(n)     | O(1)      | O(1)     |
-| Tree           | O(log n) | O(log n) | O(log n)  | O(log n) |
-| Graph          | O(V+E)   | O(V+E)   | O(1)      | O(1)     |
-| Hash Table     | N/A      | O(1)     | O(1)      | O(1)     |
-| Heap           | O(1)     | O(log n) | O(log n)  | O(log n) |
-| Priority Queue | O(1)     | O(log n) | O(log n)  | O(log n) |
-| Trie           | O(m)     | O(m)     | O(m)      | O(m)     |
-|-------------------------------------------------------------|
+<table>
+  <tr>
+    <th colspan="5"> Time Complexity with Worst Case Scenario</th>
+  </tr>
+  <tr>
+    <th>Data Structure</th>
+    <th>Access</th>
+    <th>Search</th>
+    <th>Insertion</th>
+    <th>Deletion</th>
+      
+  </tr>
+  <tr>
+    <td>Array</td>
+    <td>O(1)</td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+  </tr>
+  <tr>
+   <td>Linked List</td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>O(1)</td>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+    <td>Stack</td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>O(1)</td>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+    <td>Queue</td>
+    <td>O(n)</td>
+    <td>O(n)</td>
+    <td>O(1)</td>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+    <td>Tree</td>
+    <td>O(log n)</td>
+    <td>O(log n)</td>
+    <td>O(log n)</td>
+    <td>O(log n)</td>
+  </tr>
+  <tr>
+    <td>Graph</td>
+    <td>O(V+E)</td>
+    <td>O(V+E)</td>
+    <td>O(1)</td>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+    <td>Hash Table</td>
+    <td>N/A</td>
+    <td>O(1)</td>
+    <td>O(1)</td>
+    <td>O(1)</td>
+  </tr>
+  <tr>
+    <td>Heap</td>
+    <td>O(1)</td>
+    <td>O(log n)</td>
+    <td>O(log n)</td>
+    <td>O(log n)</td>
+  </tr>
+  <tr>
+    <td>Priority </td>
+    <td>O(1)</td>
+    <td>O(log n)</td>
+    <td>O(log n)</td>
+    <td>O(log n)</td>
+  </tr>
+ <tr>
+    <td>Trie</td>
+    <td>O(m)</td>
+    <td>O(m)</td>
+    <td>O(m)</td>
+    <td>O(m)</td>
+  </tr>
+</table>
 
 
 ### **Notes**:
